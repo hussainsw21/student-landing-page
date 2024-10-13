@@ -20,16 +20,6 @@
   font-weight: bold;
 }
 
-.nav ul {
-  display: flex;
-  list-style: none;
-  gap: 2rem;
-}
-
-.nav ul li {
-  cursor: pointer;
-}
-
 .profile {
   background-color: #ffc107;
   color: black;

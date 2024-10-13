@@ -7,15 +7,7 @@ const StudentLandingPage = () => {
       {/* Header */}
       <header className="header">
         <div className="logo">CareerMate</div>
-        <nav className="nav">
-          <ul>
-            <li>Home</li>
-            <li>Quiz</li>
-            <li>Report</li>
-            <li>Counseling</li>
-            <li>Logout</li>
-          </ul>
-        </nav>
+       
         <div className="profile">HS</div>
       </header>
 
